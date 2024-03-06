@@ -1,1 +1,0 @@
-setelah laravel selesai terinstal, ketikan pertintah php artisan storage:link pada git bash
