@@ -1,3 +1,0 @@
-CATATAN :
-# Setelah laravel selesai di install, ketikan perintah php artisan storage:link pada gitbash
-# setelah itu baru salin file dari github
